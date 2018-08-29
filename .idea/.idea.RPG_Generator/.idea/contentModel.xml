@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Programming\CSharp\RPG_Generator\RPG_Generator" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RPG_Generator" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="RPG_Generator.csproj" t="IncludeRecursive" />
+        <e p="Src" t="Include">
+          <e p="World" t="Include">
+            <e p="Dungeon.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Tests" t="Include">
+          <e p="DungeonTests.cs" t="Include" />
+        </e>
+      </e>
+      <e p="RPG_Generator.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\Palanga\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_RPG_Generator.-890476218.00" t="ExcludeRecursive" />
+  </component>
+</project>
